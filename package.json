@@ -3,6 +3,7 @@
   "author": "maccarian agency",
   "email": "hi@maccarianagency.com",
   "version": "3.2.2",
+"homepage": ".",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
